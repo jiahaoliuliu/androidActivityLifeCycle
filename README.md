@@ -1,4 +1,4 @@
 androidActivityLifeCycle
 ========================
 
-The sample lifecycle of Android
+The sample lifecycle of Android's Activity
